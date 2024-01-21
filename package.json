@@ -1,0 +1,11 @@
+{
+  "name": "connectfour",
+  "version": "1.0.0",
+  "description": "Discord bot that play's connect4 with you",
+  "main": "index.js",
+  "author": "Lokry",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
